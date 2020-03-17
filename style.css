@@ -67,9 +67,9 @@ header h1 {
 
 }
 .inner {
-    width: 960px;
+    width: 840px;
     margin: 0 auto;
-    padding: 5px;
+    padding: 20px;
   }
 h1 {
     font-size: 32px;
