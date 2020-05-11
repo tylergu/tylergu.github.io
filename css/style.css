@@ -146,3 +146,13 @@ footer {
   background-color: silver;
   height: 40px;
 }
+
+i {
+  font-style: italic;
+  margin: 4px;
+  margin-bottom: 2em;
+}
+
+.row {
+  margin-bottom: 2em;
+}
