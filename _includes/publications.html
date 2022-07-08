@@ -2,15 +2,15 @@
 
 {% for publication in site.data.publications %}
     <div class="row">
-        <div class="col-2 vcenter">
+        <div class="col-2 align-items-center">
             <h4 class="conference">{{ publication.conference }}</h4>
         </div>
-        <div class="col-8">
+        <div class="col-10">
             <a class="papertitle"> {{ publication.title }} </a>
             <p class="paperauthors"> {{ publication.author }} </p>
             <p class="paperauthors"> {{ publication.booktitle }}, {{ publication.address }}, 
                 {{ publication.month }}, {{ publication.year }} </p>
-            <a class="paperauthors" href="{{ site.baseurl }}/papers/{{publication.file}}">paper</p>
+            <a class="paperauthors" href="{{ site.baseurl }}/papers/{{publication.file}}">paper</a>
         </div>
     </div>
 {% endfor %}
