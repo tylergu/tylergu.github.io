@@ -1,44 +1,9 @@
-<!doctype html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <meta name="google-site-verification" content="UXRJxSf5_F-191BWvs3U0DYLxZHpu5WOmQujVWV1uN4" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jiawei "Tyler" Gu</title>
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/circle_icon.ico" />
-
-    <link rel="stylesheet" href="assets/css/styles.css">
-</head>
+---
+layout: default
+title: Jiawei "Tyler" Gu
+---
 
 <body>
-    <div class="container">
-        <h1 style="text-align: center;">Jiawei "Tyler" Gu</h1>
-<h4 style="text-align: center;">PhD student, Computer Science, University of Illinois--Urbana-Champaign</h4>
-<h4 style="text-align: center;">E-mail: jiaweig3 at illinois dot edu</h4>
-<h4 style="text-align: center;"><a href="https://github.com/tylergu" class="external" target="_blank">Github</a></h4>
-        <table>
-    <tr>
-        
-        <td width="25%" style="border:0px;">
-            <h3>
-                <a href="index.html" >
-                    Home
-                </a>
-            </h3>
-        </td>
-        
-        <td width="25%" style="border:0px;">
-            <h3>
-                <a href="misc.html" >
-                    Misc
-                </a>
-            </h3>
-        </td>
-        
-    </tr>
-</table>
-        <body>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -50,66 +15,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
-    <div class="row">
-    <div class="col-12">
-        <h2 id="bio">Bio</h2>
-    </div>
-</div>
-<div class="row">
-    <div class="col-8">
-        <p>I am a Computer Science PhD student at UIUC, advised by <a href="https://tianyin.github.io/">Tianyin Xu</a>.</p>
-        <p>I am generally interested in Systems, in particular, Distributed System and Operating Systems.</p>
-        <p>I received my B.S. Computer Science from University of Wisconsin-Madison. During my undergraduate time, I was an undergrad Research Assitant in <a href="http://www.paradyn.org/">Paradyn Tools Project</a> group
-            at UW-Madison,
-            advised by <a href="http://pages.cs.wisc.edu/~bart/">Prof. Barton Miller</a>. I also worked with <a
-                href="http://www.earlence.com/">Prof. Earlence Fernandes</a>.
-        </p>
-    </div>
-    <div class="col-4">
-        <img src="assets/images/bio.jpg">
-    </div>
-</div>
-    <h2 id="exp">Experience</h2>
-<div class="row">
-    <div class="col-3">
-        <h4>April 2020-July 2021</h4>
-    </div>
-    <div class="col-8">
-        <h5>Undergraduate Research Assistant, Paradyn Group</h5>
-        <h6>University of Wisconsin-Madison</h6>
-        <p>Develop Self-Propelled Instrumentation engine which is capable of instrumenting before and after function
-            calls. Design trace generation using Self-Propelled Instrumentation engine. Develop visualization method
-            for
-            program traces in order to support recent Vulnerability Assessment.</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-3">
-        <h4>July 2020-March 2021</h4>
-    </div>
-    <div class="col-8">
-        <h5>Undergraduate Research Assistant, Security & Privacy Group </h5>
-        <h6>University of Wisconsin-Madison</h6>
-        <p>Explore physical robust Adversarial Machine Learning attacks on real-world commercial ADAS (Advanced
-            Driver-Assistance Systems). Further than the previous Robust Physical Perturbations attack, properties of
-            control systems such as Kalman Filter are considered. </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-3">
-        <h4>February 2020-May 2020</h4>
-    </div>
-    <div class="col-8">
-        <h5>Peer Mentor, Intro to Operating System</h5>
-        <h6>University of Wisconsin-Madison</h6>
-        <p>Undergraduate TA position. Hold Office Hours to help students on concepts in Operating System. Help students
-            who are stuck on their course projects.</p>
-    </div>
-</div>
+    {% include bio.html %}
+    {% include publications.html %}
+    {% include experience.html %}
 </body>
-    </div>
-</body>
-
-</html>
