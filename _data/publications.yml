@@ -1,13 +1,24 @@
+- title: Automatic Testing for Correct Operations of Cloud Systems
+  author: >
+    <b>Jiawei Tyler Gu</b>, Xudong Sun, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
+  booktitle: Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (SOSP'23)
+  year: 2023
+  month: Oct
+  address: Koblenz, Germany
+  publisher: Association for Computing Machinery
+  conference: SOSP'23
+  file: .
+  code: .
 - title: Automatic Reliability Testing For Cluster Management Controllers
   author: >
     Xudong Sun, Wenqing Luo, <b>Jiawei Tyler Gu</b>, 
     Aishwarya Ganesan, Ramnatthan Alagappan,  Michael Gasch, 
     Lalith Suresh, and Tianyin Xu
-  booktitle: 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)
+  booktitle: Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI'22)
   year: 2022
   month: Jul
   address: Carlsbad, CA
   publisher: USENIX Association
   conference: OSDI'22
-  file: sieve.pdf
+  file: https://tianyin.github.io/pub/sieve.pdf
   code: https://github.com/sieve-project/sieve
