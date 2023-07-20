@@ -1,7 +1,7 @@
 - title: Automatic Testing for Correct Operations of Cloud Systems
   author: >
     <b>Jiawei Tyler Gu</b>, Xudong Sun, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
-  booktitle: Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (SOSP'23)
+  booktitle: Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles (SOSP'23)
   year: 2023
   month: Oct
   address: Koblenz, Germany
