@@ -1,6 +1,6 @@
-- title: Automatic Testing for Correct Operations of Cloud Systems
+- title: "Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management"
   author: >
-    <b>Jiawei Tyler Gu</b>, Xudong Sun, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
+    <b>Jiawei Tyler Gu</b>, Xudong Sun, Wentao Zhang, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
   booktitle: Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles (SOSP'23)
   year: 2023
   month: Oct
