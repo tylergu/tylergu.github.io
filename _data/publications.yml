@@ -7,8 +7,8 @@
   address: Koblenz, Germany
   publisher: Association for Computing Machinery
   conference: SOSP'23
-  file: .
-  code: .
+  file: https://tianyin.github.io/pub/acto.pdf
+  code: https://github.com/xlab-uiuc/acto
 - title: Automatic Reliability Testing For Cluster Management Controllers
   author: >
     Xudong Sun, Wenqing Luo, <b>Jiawei Tyler Gu</b>, 
