@@ -1,24 +1,24 @@
 - title: "Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management"
   author: >
     <b>Jiawei Tyler Gu</b>, Xudong Sun, Wentao Zhang, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
-  booktitle: Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles (SOSP'23)
+  booktitle: In Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles (SOSP'23)
   year: 2023
   month: Oct
   address: Koblenz, Germany
   publisher: Association for Computing Machinery
   conference: SOSP'23
-  file: https://tianyin.github.io/pub/acto.pdf
+  file: papers/acto.pdf
   code: https://github.com/xlab-uiuc/acto
 - title: Automatic Reliability Testing For Cluster Management Controllers
   author: >
     Xudong Sun, Wenqing Luo, <b>Jiawei Tyler Gu</b>, 
     Aishwarya Ganesan, Ramnatthan Alagappan,  Michael Gasch, 
     Lalith Suresh, and Tianyin Xu
-  booktitle: Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI'22)
+  booktitle: In Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI'22)
   year: 2022
   month: Jul
   address: Carlsbad, CA
   publisher: USENIX Association
   conference: OSDI'22
-  file: https://tianyin.github.io/pub/sieve.pdf
+  file: papers/sieve.pdf
   code: https://github.com/sieve-project/sieve
