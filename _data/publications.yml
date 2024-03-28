@@ -1,3 +1,14 @@
+- title: "Anvil: Verifying Liveness of Cluster Management Controllers"
+  author: >
+    Xudong Sun, Wenjie Ma, <b>Jiawei Tyler Gu</b>, Zicheng Ma, Tej Chajed, Jon Howell, Andrea Lattuada, Oded Padon, Lalith Suresh, Adriana Szekeres, and Tianyin Xu
+  booktitle: In Proceedings of the 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI'24)
+  year: 2024
+  month: Jul
+  address: Santa Clara, CA
+  publisher: USENIX Association
+  conference: OSDI'24
+  file: papers/anvil.pdf
+  code: https://github.com/xlab-uiuc/anvil
 - title: "Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management"
   author: >
     <b>Jiawei Tyler Gu</b>, Xudong Sun, Wentao Zhang, Yuxuan Jiang, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
