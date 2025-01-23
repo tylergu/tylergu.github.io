@@ -24,7 +24,7 @@ img {
 
 body {
   background: #dbdadaa2;
-  font-family: "Helvetica Neue", Helvetica, Arial, serif;
+  font-family: "Noto Sans", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   // background-image: url(../img/beach.png);
   // background-size: cover;
@@ -43,7 +43,7 @@ table {
 }
 
 h1 {
-  font-family: "Chivo", "Helvetica Neue", Helvetica, Arial, serif;
+  font-family: "Noto Sans", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 56px !important;
   font-weight: bolder;
 }
@@ -70,7 +70,7 @@ h4 {
 }
 
 h5 {
-  font-family: Helvetica, Arial, serif;
+  font-family: "Noto Sans", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-weight: 400;
   font-size: 1.2em;
   color: #303030;
@@ -83,9 +83,9 @@ h6 {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: "Noto Sans", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 1.05em;
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 20px;
 }
 
@@ -95,6 +95,6 @@ figure {
 }
 
 figcaption {
-  font-family: Helvetica, Arial, serif;
+  font-family: "Noto Sans", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-style: italic;
 }
