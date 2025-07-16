@@ -6,7 +6,7 @@
   month: May
   address: Renton, WA
   publisher: USENIX Association
-  conference: NSDI'24
+  conference: NSDI'26
   file: ""
   code: https://github.com/xlab-uiuc/acto
 - title: "Anvil: Verifying Liveness of Cluster Management Controllers"
