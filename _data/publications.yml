@@ -1,3 +1,14 @@
+- title: "Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management"
+  author: >
+    Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan A. Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu
+  booktitle: In Proceedings of the 23rd USENIX Symposium on Operating Systems Design and Implementation (NSDI'26)
+  year: 2026
+  month: May
+  address: Renton, WA
+  publisher: USENIX Association
+  conference: NSDI'24
+  file: ""
+  code: https://github.com/xlab-uiuc/acto
 - title: "Anvil: Verifying Liveness of Cluster Management Controllers"
   author: >
     Xudong Sun, Wenjie Ma, <b>Jiawei Tyler Gu</b>, Zicheng Ma, Tej Chajed, Jon Howell, Andrea Lattuada, Oded Padon, Lalith Suresh, Adriana Szekeres, and Tianyin Xu
