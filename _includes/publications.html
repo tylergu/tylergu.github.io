@@ -10,12 +10,12 @@
         <h4 class="conference">{{ publication.conference }}</h4>
     </div>
     <div class="col-10">
-        <p class="smallmargin">
-        <nobr class="papertitle"> {{ publication.title }} </nobr>
-        &nbsp;&nbsp;&nbsp;
-        [<a class="paperauthors" href="{{publication.file}}">pdf</a>]
-        &nbsp;
-        [<a class="paperauthors" href="{{ publication.code }}">code</a>]
+        <p class="papertitle">
+            {{ publication.title }}
+            &nbsp;
+            [<a class="paperauthors" href="{{publication.file}}">pdf</a>]
+            &nbsp;
+            [<a class="paperauthors" href="{{ publication.code }}">code</a>]
         </p>
         <p class="paperauthors"> {{ publication.author }} </p>
         <p class="paperauthors"> {{ publication.booktitle }}, {{ publication.address }},

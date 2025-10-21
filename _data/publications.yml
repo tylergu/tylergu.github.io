@@ -7,7 +7,7 @@
   address: Renton, WA
   publisher: USENIX Association
   conference: NSDI'26
-  file: ""
+  file: papers/watcher.pdf
   code: https://github.com/xlab-uiuc/acto
 - title: "Anvil: Verifying Liveness of Cluster Management Controllers"
   author: >
