@@ -20,7 +20,9 @@
         <p class="paperauthors"> {{ publication.author }} </p>
         <p class="paperauthors"> {{ publication.booktitle }}, {{ publication.address }},
             {{ publication.month }}, {{ publication.year }} </p>
-        <p class="paperauthors"> {{ publication.note }} </p>
+        {% for note in publication.extra_notes %}
+            <p class="paperauthors"> {{ note }} </p>
+        {% endfor %}
     </div>
     &nbsp;
 </div>
