@@ -1,3 +1,12 @@
+- title: "Reliable Cloud System Management: Challenges and Tools"
+  author: >
+    <b>Jiawei Tyler Gu</b>
+  booktitle: PhD Dissertation, University of Illinois at Urbana-Champaign
+  year: 2026
+  month: May
+  address: Urbana, IL
+  conference: PhD Dissertation
+  file: papers/dissertation.pdf
 - title: "Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management"
   author: >
     <b>Jiawei Tyler Gu</b>, Zhen Tang, Yiming Su, Bogdan A. Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu

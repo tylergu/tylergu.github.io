@@ -14,8 +14,10 @@
             {{ publication.title }}
             &nbsp;
             [<a class="paperauthors" href="{{publication.file}}">pdf</a>]
-            &nbsp;
-            [<a class="paperauthors" href="{{ publication.code }}">code</a>]
+            {% if publication.code %}
+                &nbsp;
+                [<a class="paperauthors" href="{{ publication.code }}">code</a>]
+            {% endif %}
         </p>
         <p class="paperauthors"> {{ publication.author }} </p>
         <p class="paperauthors"> {{ publication.booktitle }}, {{ publication.address }},
